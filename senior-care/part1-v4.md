@@ -33,7 +33,9 @@ To isi demand supply gap ko dekhte huye kayi real estate companies, aur governme
 
 Ab yahan ek sawaal banta hai doston. Senior care toh healthcare ka mudda lagta hai. Toh iss video me itni baat real estate companies ki kyu?
 
-Iske liye pehle senior care economy ke paanch bade segments samajh lo. Pehla, housing: independent living, assisted living, memory care, aur aisi communities jahan buzurg zarurat badhne pe ek level se doosre pe shift ho sakein. Doosra, healthcare: nursing homes, ghar pe nursing, aur palliative care. Teesra, non-medical services: ghar ka kaam, companionship, aur senior day care centres. Chautha, SilverTech: assistive devices, wearables, telemedicine, aur Elderline jaise helplines. Aur paanchva, finance: senior health insurance, reverse mortgage, aur retirement planning.
+Iske liye pehle senior care economy ke chaar bade segments samajh lo. Pehla, housing: independent living, assisted living, memory care, aur aisi communities jahan buzurg zarurat badhne pe ek level se doosre pe shift ho sakein. Doosra, healthcare: nursing homes, ghar pe nursing, aur palliative care. Teesra, non-medical services: ghar ka kaam, companionship, aur senior day care centres. Aur chautha, finance: senior health insurance, reverse mortgage, aur retirement planning.
+
+[ON SCREEN: Senior care economy flow chart]
 
 Real estate pehla segment hai. Aur baaki segments ki kai services isi ke andar deliver hoti hain. Colliers ki report ise "hardware" kehti hai aur care aur services ko "software". Assisted living ho, dementia care ho, ya 24 ghante emergency response, inme se koi bhi service bina building ke organised tareeke se deliver nahi ho sakti.
 
