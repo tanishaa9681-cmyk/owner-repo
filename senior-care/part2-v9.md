@@ -18,6 +18,16 @@ Iske alawa Pune ki Paranjape Schemes apne Athashri brand ke saath 16 senior comm
 
 Ashiana, Paranjape ka Athashri aur Saket Pranamam jaisi companies mid-market aur Tier 2 customers ko target kar rahi hain, jahan ek ghar lagbhag 1 crore ke aas paas hai. Aur DLF aur Hiranandani jaisi companies metro cities ke premium aur luxury end ko target kar rahi hain, jahan DLF ka ek ghar 11.5 crore ka hai.
 
+[TABLE 1: Pure-play real estate approach]
+
+| Company | Revenue from operations (FY26) | Senior living share | Target market | Senior living projects | Expected revenue from projects |
+|---|---|---|---|---|---|
+| DLF | ₹10,174 cr | 0% of FY26 revenue (first project launched in FY27). The Aureva's ₹1,985 cr equals ~10% of FY26 bookings of ₹20,143 cr | Luxury, metro | The Aureva, Gurugram: 172 flats, 45-floor tower | ~₹2,000 cr target; ₹1,985 cr booked (sold out) |
+| Ashiana Housing | ~₹1,185 cr | Not disclosed as % of revenue. Senior bookings ₹570 cr = ~23.5% of FY26 bookings of ₹2,421 cr | Mid-market, Tier 2 | Utsav and other communities; new Pune project (28.55 acres, ~20 lakh sq ft) | Pune: ₹1,800–2,000 cr |
+| Paranjape Schemes (Athashri) | NA (unlisted) | NA | Mid-market | 16 communities, 3,000+ residents | NA |
+| Saket Engineers (Saket Pranamam) | NA (unlisted) | NA | Mid-market | Pranamam, Hyderabad | NA |
+| Hiranandani Group | NA (unlisted) | NA | Premium | Elements, Oragadam: 400 homes, ~10 lakh sq ft | NA |
+
 ## Integrated Approach
 
 Chaliye ab real-estate companies ke doosre approach ko samajhte hain. Dosto, sirf buildings ban jaane se senior care ensure nahi ho jata hai. Seniors ki comfortable living ke liye caregiver availability, social connection aur healthcare access bhi equally important hain.
@@ -46,19 +56,19 @@ Iske alawa, unlisted space me bhi kai companies integrated model par kaam kar ra
 
 Humne iss table mein real estate companies, unke operator partners aur key numbers summarise kiye hain.
 
-[TABLE]
+[TABLE 2: Integrated approach]
 
-| Real estate company | Listed? | Operator partner | Key numbers | Target market |
-|---|---|---|---|---|
-| Max Estates | Listed | Antara (Max India, listed) | Estate 360: 292 homes, ~₹1,530 cr; ~₹330 cr expected fees (360 + 361) | Luxury |
-| Brigade Group | Listed | Primus Senior Living | 3 projects, 600+ homes, ~₹750 cr GDV | Mid to premium |
-| Godrej Properties | Listed | Manasum Senior Living | Banyan: 191 homes, 13 acres, from ~₹36 lakh | Mid-market |
-| Ashiana Housing | Listed | Epoch Elder Care (care only) | Self-run communities; Epoch for assisted and dementia care | Mid-market |
-| Wadhwa, Dosti, Srijan, Naiknavare, Gopalan | Unlisted | Primus | 9 projects, 6 cities; ₹2,000 cr HDFC Capital platform | Mid to premium |
-| Embassy, TVS Emerald, Asset Homes | Unlisted | Serene (Columbia Pacific) | ~₹3,000 cr, ~2,600 homes | Mid-market |
-| Ramaniyam, VNCT Global | Unlisted | Athulya Senior Care | NA | Premium |
-| Ozone Group, Tapovan Projects | Unlisted | Covai Care | NA | Mid-market |
-| J K Urbanscapes | Unlisted | Advait Living | NA | Premium |
+| Real estate company | Operator partner | Partnership details | Key focus area |
+|---|---|---|---|
+| Max Estates (listed) | Antara Senior Living (Max India, listed) | Same group. Max Estates builds and sells; Antara runs the community for an 8–10% management fee. Estate 360: 292 homes, ~₹1,530 cr sold; Estate 361 phase 1: 127 of 180 sold | Lifestyle and hospitality |
+| Brigade Group (listed) | Primus Senior Living | 3 projects, 600+ homes, ~₹750 cr GDV (Feb 2026); 2 inside Brigade townships | Hybrid (hospitality + healthcare, multi-generational) |
+| Godrej Properties (listed) | Manasum Senior Living | Banyan inside Godrej Royale Woods, North Bengaluru: 191 homes, 13 acres, from ~₹36 lakh | Lifestyle and hospitality |
+| Ashiana Housing (listed) | Epoch Elder Care | Ashiana runs its own communities; Epoch handles assisted living and dementia care | Healthcare |
+| Wadhwa, Dosti, Srijan, Naiknavare, Gopalan | Primus Senior Living | 9 projects across 6 cities; Primus also has a ₹2,000 cr platform with HDFC Capital | Hybrid (hospitality + healthcare, multi-generational) |
+| Embassy Group, TVS Emerald, Asset Homes | Serene Communities (Columbia Pacific) | ~₹3,000 cr investment across 6 cities; ~2,600 homes under construction; ~1,700 homes managed | Healthcare (full range of care, from independent living to memory care) |
+| Ramaniyam Real Estates, VNCT Global | Athulya Senior Care | Chennai projects | Healthcare (assisted living, rehab, dementia, skilled nursing) |
+| Ozone Group, Tapovan Projects | Covai Care | Bengaluru and Mysore projects | Healthcare |
+| J K Urbanscapes | Advait Living | Gurugram premium retirement housing | Lifestyle and hospitality |
 
 ### Lekin ye raasta aasaan nahi hai
 
@@ -91,6 +101,12 @@ Toh picture kuch aisi hai dosto. Ghar bechne wala business aaj profit kama raha 
 - **International examples:** the Taikang and UK NHS step-down examples are described qualitatively from the Colliers report. No efficiency numbers are claimed.
 - **Brigade–Primus roles:** the announcement (Business Standard, 26 Feb 2026) says the two "develop" the projects together and doesn't split the roles or name the deal structure. "Brigade = planning and construction, Primus = senior living model and services" is my inference from that coverage, so check it with the companies before stating it as fact.
 - **Godrej–Manasum roles:** the Banyan site shows Manasum as the brand running the services (paramedics, doctor, ambulance, meals). Godrej's exact role isn't spelled out; "township and infrastructure" is inferred because Banyan sits inside Godrej Royale Woods. The site lists prices from ~₹35.9 lakh (2 BHK), so it's mid-market, not luxury, despite Colliers' description.
+- **Table 1 sources:**
+  - DLF FY26 revenue (₹10,174 cr) and bookings (₹20,143 cr) are from DLF's Q4 FY26 press release.
+  - Ashiana's FY26 total bookings (₹2,421 cr) are from news reports of its operational update.
+  - The "~10%" and "~23.5%" are my calculations. Senior living share of revenue isn't disclosed by either company.
+  - Ashiana's ~₹1,185 cr revenue is "sales and other income", not strictly revenue from operations. Check the annual report.
+- **Focus areas in Table 2:** these follow Colliers' operator classification (Lifestyle and hospitality-led / Healthcare-led / Hybrid).
 - **Operator revenue line:** only Antara's model (management fee + maintenance income + resale fee) is disclosed, in Max India's presentation. The other partnerships (Brigade–Primus, Godrej–Manasum and so on) don't disclose their terms, so the "revenue share" mention is a general industry description, not a sourced fact about any named deal.
 - **₹330 cr:** this is the ₹130 cr (Estate 360) plus ₹200 cr (Estate 361) from the call summary.
 - **Colliers classifies Serene as "healthcare-led"**, so it sits in that bucket here. Colliers also places Serene at the premium end; I tagged it mid-market based on its ₹70 lakh–1.5 cr tickets.
