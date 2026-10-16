@@ -4,45 +4,48 @@
 
 ---
 
-## 2.1 Moves: kaun kya bana raha hai
+## 2.1 Moves: kaun kitna paisa laga raha hai
 
-Doston, pichhle do saal me Bharat ke lagbhag har bade developer ne senior living me kuch na kuch announce kiya hai. Ek ek karke dekhte hain ki kaun kitna paisa laga raha hai, aur usse kitna kama raha hai.
+Doston, pichhle ek saal me senior living me paisa tezi se aaya hai. Pehle ek nazar latest moves pe.
 
-### DLF
+DLF ne Gurugram me apna pehla senior living project launch kiya, jisse lagbhag 2,000 crore ki sales ka target tha. Ashiana Housing ne Pune me senior living ke liye 28.55 acre zameen khareedi, jo uski ab tak ki sabse badi land deal hai. Columbia Pacific ki Serene Communities 6 shehron me lagbhag 3,000 crore invest kar rahi hai. Primus Senior Living ne HDFC Capital ke saath 2,000 crore ka senior living platform banaya hai. Brigade ne Primus ke saath 750 crore ke projects announce kiye. Max Estates ne Gurugram me Estate 361 launch kiya. Aur Hiranandani aur Godrej Properties jaise naye naam bhi iss segment me utar aaye hain.
 
-DLF, market cap ke hisaab se India ki sabse badi listed real estate company hai. October 2026 mein DLF ne Gurugram ke Sector 63 mein apna pehla senior living project, The Aureva, launch kiya. Company ne iss project ka alag capex disclose nahi kiya hai, lekin August 2026 ke earnings call ke time iss project se lagbhag 2,000 crore ki sales ki ummeed batayi thi. Iss project mein 45 floors ka ek tower hai, jisme 4 BHK ke 172 flats hain, jinka average ticket size lagbhag 11.5 crore hai. Launch ke 48 ghanton ke andar company ko 406 confirmed expressions of interest mile, aur as of October 2026, company ke saare flats book ho gaye, lagbhag 1,985 crore mein. Aur ek interesting baat, inme se lagbhag 25% buyers NRI the.
+Lekin in sab me se do companies ki kahani sabse zada batati hai ki ye business asal me kaisa dikhta hai. Ek luxury end pe hai, aur ek mid-market pe.
 
-DLF Home Developers ke MD aur Chief Business Officer Aakash Ohri ne kaha, "We believe The Aureva establishes a new benchmark in this emerging category."
+### DLF: luxury end
 
-### Max Estates
+DLF, market cap ke hisaab se India ki sabse badi listed real estate company hai. October 2026 mein DLF ne Gurugram ke Sector 63 mein apna pehla senior living project, The Aureva, launch kiya. Company ne iss project ka alag capex disclose nahi kiya hai, lekin August 2026 ke earnings call ke time iss project se lagbhag 2,000 crore ki sales ki ummeed batayi thi. Iss project mein 45 floors ka ek tower hai, jisme 4 BHK ke 172 flats hain, jinka average ticket size lagbhag 11.5 crore hai. Launch ke 48 ghanton ke andar company ko 406 confirmed expressions of interest mile, yaani har flat ke liye lagbhag 2.4 khareedar. Aur as of October 2026, company ke saare flats book ho gaye, lagbhag 1,985 crore mein. Inme se lagbhag 25% buyers NRI the.
 
-Max Estates, Max Group ki real estate company hai, jo NSE aur BSE pe listed hai. 2024 mein Max Estates ne Gurugram mein Estate 360 township ke andar apne senior living homes launch kiye. Iss project mein 292 senior homes the, aur saare ke saare 11 mahine mein, July 2025 tak bik gaye. Total sales lagbhag 1,530 crore rahi, yaani average ticket size lagbhag 5 crore. Iske baad December 2025 mein company ne Estate 361 launch kiya, jahan phase 1 ke 180 senior homes mein se March 2026 tak 127 bik chuke the. Iss model mein ghar Max Estates banati hai, aur community chalane ka kaam Max India ki Antara Senior Living ke paas hai.
+Ye number ek important baat batata hai. Senior home aksar buzurg khud nahi, unke bachche khareedte hain, aur bahut baar videsh me baithe bachche. DLF Home Developers ke MD aur Chief Business Officer Aakash Ohri ne kaha, "We believe The Aureva establishes a new benchmark in this emerging category."
 
-### Ashiana Housing
+### Ashiana Housing: mid-market end
 
-Ashiana Housing, India ki sabse purani senior living developers mein se ek hai, aur NSE aur BSE pe listed hai. FY26 mein company ka total revenue lagbhag 1,185 crore aur profit lagbhag 118 crore raha. Isme senior living ki bikri 570 crore rahi, jo FY25 ke 383 crore se lagbhag 49% zada hai, aur paanch saal pehle ke lagbhag 100 crore se 5 guna se zada. Company ne FY26 mein 569 senior homes beche, jinka average ticket size lagbhag 1 crore hai. Aur aage ke liye, company ne Pune mein 28.55 acre zameen senior living ke liye khareedi hai, jo uski ab tak ki sabse badi land deal hai. Company ke whole-time director ke hisaab se agle 2-3 saal mein business mix "decisively" senior living ki taraf shift hoga.
+Doosri taraf hai Ashiana Housing, India ki sabse purani senior living developers mein se ek, jo NSE aur BSE pe listed hai. FY26 mein company ka total revenue lagbhag 1,185 crore aur profit lagbhag 118 crore raha, yaani net margin lagbhag 10%.
 
-### Brigade Group
+Isme senior living ki bikri 570 crore rahi. Ye FY25 ke 383 crore se lagbhag 49% zada hai, aur paanch saal pehle ke lagbhag 100 crore se 5 guna se zada. Company ke business me senior living ka hissa 10% se badh ke 23% ho gaya hai. Company ne FY26 mein 569 senior homes beche, jinka average ticket size lagbhag 1 crore hai, DLF ke ek ghar ki keemat ka lagbhag ek-dasvaan hissa.
 
-Brigade Group, Bengaluru ki ek listed real estate company hai. Brigade ne Primus Senior Living ke saath partnership mein senior living ke 3 projects announce kiye hain. In projects mein 600 se zada ghar honge, aur inka gross development value, yaani poori tarah bikne pe total sales, lagbhag 750 crore hai. Yahan ghar Brigade banayegi, aur community Primus chalayegi.
-
-### Columbia Pacific (Serene Communities)
-
-Columbia Pacific Communities, ek unlisted senior living company hai, jo Serene brand ke naam se communities chalati hai. Company 6 shehron mein lagbhag 3,000 crore invest kar rahi hai. Abhi company ke 13 projects mein lagbhag 2,600 ghar under construction hain, jinka ticket size 70 lakh se 1.5 crore ke beech hai. Ye Bengaluru mein Embassy, Hyderabad mein Prathima aur Pune mein Cybercity jaise local developers ke saath partnership mein kaam karti hai.
-
-### Baaki naye players
-
-Inke alawa Hiranandani Group Chennai ke paas Oragadam mein 400 gharon ka 'Elements' project la raha hai, jo lagbhag 10 lakh square feet mein hoga. Godrej Properties ne North Bengaluru mein Manasum Senior Living ke saath 'Banyan' project shuru kiya hai. Aur Pune ki Paranjape Schemes apne Athashri brand ke saath pehle se 16 senior communities chala rahi hai, jahan 3,000 se zada buzurg rehte hain.
+Aur company ka iraada saaf hai. Pune ki 28.55 acre zameen uske baad aayi, aur whole-time director ke hisaab se agle 2-3 saal mein business mix "decisively" senior living ki taraf shift hoga. Yaani ek listed developer apna core business hi badal raha hai.
 
 ### Ek product, do market
 
-Ab ticket size dekho. Ashiana ka ghar lagbhag 1 crore. Max Estates ka lagbhag 5 crore. DLF ka lagbhag 11.5 crore. Ek hi category me 10 guna se zada ka fark.
+Ab dono ko saath rakh ke dekho. Ashiana ka ghar lagbhag 1 crore. Max Estates ke Estate 360 ka lagbhag 5 crore. DLF ka lagbhag 11.5 crore. Ek hi category me 10 guna se zada ka fark.
 
-Matlab senior living me do bilkul alag market ban rahe hain. Ek mid-market jo Tier 2 aur peripheral shehron me hai. Aur ek luxury market jo metros ke andar hai, bade hospitals aur bachchon ke paas. Aur dono me ghar bik rahe hain.
+Matlab senior living me do bilkul alag market ban rahe hain. Ek mid-market jo Tier 2 aur peripheral shehron me hai, jahan volume hai. Aur ek luxury market jo metros ke andar hai, bade hospitals aur bachchon ke paas, jahan ticket size hai. Aur dono me ghar bik rahe hain.
 
-Iss table me hamne saare major players ke projects, pricing aur status summarise kiye hain. Aap iska screenshot le sakte ho.
+Baaki companies ke projects, unka size aur status iss table me hai. Aap iska screenshot le sakte ho.
 
-[TABLE 1: Company | Project | Homes | Ticket size | Price per sq ft | Sales / status]
+[TABLE 1: Baaki players]
+
+| Company | Project / move | Model | Size | Ticket size | Status |
+|---|---|---|---|---|---|
+| Max Estates (with Antara) | Estate 360, Gurugram | Developer + operator | 292 homes, ~₹1,530 cr sales | ~₹5 cr | Sold out in 11 months (Jul 2025) |
+| Max Estates (with Antara) | Estate 361, Gurugram | Developer + operator | 180 homes in phase 1 | ~₹22,000/sq ft | 127 sold by Mar 2026 |
+| Brigade Group + Primus | 3 projects | Developer + operator | 600+ homes, ~₹750 cr GDV | NA | Announced |
+| Columbia Pacific (Serene) | 13 projects, 6 cities | Operator with local developers | ~2,600 homes, ~₹3,000 cr investment | ₹70 lakh to ₹1.5 cr | Under construction |
+| Primus Senior Living + HDFC Capital | Senior living platform | Developer-operator | ₹2,000 cr platform, 9 projects | NA | Platform set up |
+| Hiranandani Group | Elements, Oragadam (Chennai) | Developer | 400 homes, ~10 lakh sq ft | NA | Announced |
+| Godrej Properties + Manasum | Banyan, North Bengaluru | Developer + operator | NA | NA | Launched |
+| Paranjape Schemes | Athashri | Developer-operator | 16 communities, 3,000+ residents | NA | Operational |
 
 ### Ye kis tarah ka capex hai
 
