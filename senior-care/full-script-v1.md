@@ -106,19 +106,17 @@ Lekin national level par abhi koi regulator nahi hai, aur Centre ki nayi Nationa
 
 ## Part 3: Real estate ke alawa kaun dimaag laga raha hai?
 
-Ghar is economy ka sirf ek hissa hai. Dosto, ghar ban jaane ke baad bhi buzurg ko doctor, nurse, roz ki madad aur paise ka intezaam chahiye. Aur yahan bhi kaafi khiladi aa rahe hain.
+Ghar is economy ka sirf ek hissa hai. Dosto, ghar ban jaane ke baad bhi buzurg ko doctor, nurse aur roz ki madad chahiye. Aur yahan bhi companies aur investors paisa laga rahe hain.
 
-**Pehla, healthcare.** Buzurg hospital ke sabse bade customer hain. ASLI-PwC ke hisaab se 70 saal se upar ke logon mein har 1,000 mein se 111 log saal mein hospital mein admit hote hain, jo 30-44 saal walon se 4.3 guna zyada hai. Isliye hospital chains ab ghar tak care pahuncha rahi hain. Max Healthcare ka home care business, Max@Home, Q4 FY26 mein 73 crore ka revenue laaya, saal dar saal 30% zyada.
+**Pehla, healthcare.** Buzurg hospital ke sabse bade customer hain. ASLI-PwC ke hisaab se 70 saal se upar ke logon mein har 1,000 mein se 111 log saal mein hospital mein admit hote hain, jo 30-44 saal walon se 4.3 guna hai. Isliye hospital chains ab ghar tak care pahuncha rahi hain. Max Healthcare ka home care business, Max@Home, Q4 FY26 mein 73 crore ka revenue laaya, saal dar saal 30% zyada. Aur Chennai ki Athulya Senior Care ne apna pehla geriatric hospital, yaani sirf buzurgon ke liye hospital, khola hai, aur South India mein aise 10 aur hospital kholne ka plan hai.
 
-**Doosra, home care aur non-medical services.** Zyadatar buzurg apna ghar chhodna nahi chahte. Toh startups ghar par hi care de rahe hain. Emoha aur Epoch Elder Care chalane wali Age Care Labs ne July 2026 mein 85 crore raise kiye. Primus ne 2024 mein General Catalyst ki leadership mein 20 million dollar raise kiye the. Aur Primus–HDFC Capital ka 2,000 crore ka platform dikhata hai ki institutional paisa bhi ab iss sector mein aa raha hai.
+**Doosra, assisted living aur care homes.** Ye wo buzurg hain jinhe roz medical supervision chahiye, jaise dementia ya stroke ke baad recovery. Athulya ke paas aaj Chennai, Bengaluru aur Kochi mein 1,500 beds hain, aur company lagbhag 30 million dollar raise karke FY27 tak inhe 3,500 tak le jaana chahti hai.
 
-**Teesra, insurance.** Age limit hatne se buzurg ab nayi health policy le sakte hain. Lekin hospital ke bahar wali long-term care, jaise ghar par nurse ya assisted living, ka kharcha aaj bhi zyadatar jeb se jaata hai. Bharat mein long-term care insurance abhi exist hi nahi karta.
+**Teesra, home care aur companionship.** Zyadatar buzurg apna ghar chhodna hi nahi chahte. Toh startups ghar par hi care pahuncha rahe hain. Emoha aur Epoch Elder Care chalane wali Age Care Labs ne July 2026 mein 85 crore raise kiye. Aur akelepan ki problem ke liye Khyaal jaisa app hai, jiske 10 lakh se zyada senior users hain, aur jisne 4.2 million dollar raise kiye hain.
 
-**Chautha, finance.** Kai buzurgon ke paas paisa nahi, ghar hai. Reverse mortgage isi ke liye bana tha, lekin chala nahi. Bank property value ka sirf 35-55% hi dete hain, aur interest 10-11% hota hai, jo normal loan against property se bhi mehenga hai.
+**Aur chautha, institutional capital.** Ab bade investors bhi iss sector mein aa rahe hain. HDFC Capital ne Primus ke saath 2,000 crore ka senior living platform banaya hai. Primus ko General Catalyst ki leadership mein 20 million dollar mile the. Aur Shrem Group ne Emoha ke saath milkar 'Shremoha' naam ka premium senior living platform launch kiya hai.
 
-**Aur paanchva, workforce.** Care ka sabse bada bottleneck log hain. ASLI-PwC ke hisaab se Bharat ko 1.5 lakh trained caregivers ka target poora karna hai, aur abhi geriatric training medical aur nursing curriculum ka standard hissa bhi nahi hai.
-
-[ON SCREEN: Healthcare | Home care | Insurance | Finance | Workforce: who is building what]
+[ON SCREEN: Healthcare: Max@Home, Athulya | Care homes: Athulya 1,500 → 3,500 beds | Home care: Emoha ₹85 cr, Khyaal | Capital: HDFC Capital ₹2,000 cr, Shremoha]
 
 ---
 
@@ -164,6 +162,7 @@ Jo company ghar ke saath care ko bhi profitably deliver kar payegi, wahi iss sec
 - Age Care Labs, which owns Emoha and Epoch Elder Care, counts Rainmatter by Zerodha among its investors.
 - Primus is backed by Gruhas, co-founded by Nikhil Kamath.
 - Check with the channel whether these need an on-screen disclosure, since both appear in Part 2 and Part 3.
+- Part 3 now covers only segments with active investment: healthcare, care homes, home care and institutional capital. Insurance, reverse mortgage and workforce were dropped because no company is investing there.
 
 **Still unverified or single-source**
 
@@ -190,5 +189,7 @@ Jo company ghar ke saath care ko bhi profitably deliver kar payegi, wahi iss sec
 - Max Healthcare Q4 FY26 earnings update (Max@Home): https://max-website20-images.s3.ap-south-1.amazonaws.com/SE_Intimation_Reg_30_LODR_Earnings_Update_21_05_2026_ed3cd6e592.pdf
 - Age Care Labs ₹85 cr: https://arabfounders.net/en/age-care-labs-raises-9m-series-b1/
 - Primus $20M seed: https://inc42.com/buzz/primus-senior-living-nets-20-mn-to-offer-essential-services-to-the-elderly/
-- Reverse mortgage: https://www.outlookmoney.com/retirement/senior-living/3-reasons-that-prevented-the-reverse-mortgage-concept-from-taking-off-in-india
+- Athulya expansion (Jun 2026): https://www.newsbytesapp.com/news/business/athulya-senior-care-to-raise-30-million-expand-to-3500-beds/tldr
+- Age Care Labs and Shremoha (Inc42, Jul 2026): https://inc42.com/buzz/age-care-labs-raises-%E2%82%B985-cr-to-build-senior-living-communities/
+- Khyaal seed round (Feb 2024): https://technode.global/2024/02/06/indias-khyaal-raises-4-2m-in-funding-co-led-by-co-led-by-62ventures-svquad-inventus-capital/
 - Part 2 sources: see the verification log in part2-v9.md
