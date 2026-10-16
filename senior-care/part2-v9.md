@@ -30,7 +30,7 @@ Ab socho ye model itna efficient kyu hai. Insurance ke premium se company ko lam
 
 Lekin real estate companies ko caregiving ka experience nahi hota hai. Jis wajah se, ye companies operators ke sath partnerships ke through iss model mein focus badha rahe hain.
 
-Ab operator kaun hota hai? Operator woh company hai jo ghar bikne ke baad community ko roz chalati hai. Staff rakhna, khana, saaf safai, maintenance, activities, 24 ghante emergency response, aur nurse ya doctor ki availability, ye sab operator ka kaam hai. Developer ghar banata hai, aur operator usme rehne ka experience deta hai. Badle mein operator ko developer se project management fee, aur residents se har mahine maintenance aur service charges milte hain.
+Ab operator kaun hota hai? Operator woh company hai jo ghar bikne ke baad community ko roz chalati hai. Staff rakhna, khana, saaf safai, maintenance, activities, 24 ghante emergency response, aur nurse ya doctor ki availability, ye sab operator ka kaam hai. Developer ghar banata hai, aur operator usme rehne ka experience deta hai. Operator kaise kamata hai, ye har deal mein alag hota hai. Jaise Max Group ke case mein, operator Antara ko project pe management fee milti hai, aur residents se har mahine maintenance aur service charges. Kuch partnerships mein operator revenue share leta hai, aur assisted living jaisi facilities mein residents seedha monthly fee dete hain.
 
 Chaliye kuch examples dekhte hain.
 
@@ -89,6 +89,7 @@ Toh picture kuch aisi hai dosto. Ghar bechne wala business aaj profit kama raha 
   - The Embassy entity partnering with Serene is Embassy Group, which is private. It isn't the listed Embassy Developments, so check this before calling it listed.
   - The other developers are treated as unlisted. Verify any you aren't sure of.
 - **International examples:** the Taikang and UK NHS step-down examples are described qualitatively from the Colliers report. No efficiency numbers are claimed.
+- **Operator revenue line:** only Antara's model (management fee + maintenance income + resale fee) is disclosed, in Max India's presentation. The other partnerships (Brigade–Primus, Godrej–Manasum and so on) don't disclose their terms, so the "revenue share" mention is a general industry description, not a sourced fact about any named deal.
 - **₹330 cr:** this is the ₹130 cr (Estate 360) plus ₹200 cr (Estate 361) from the call summary.
 - **Colliers classifies Serene as "healthcare-led"**, so it sits in that bucket here. Colliers also places Serene at the premium end; I tagged it mid-market based on its ₹70 lakh–1.5 cr tickets.
 - **Max India call figures** (₹130 cr and ₹200 cr fees, 15% variable cost) are paraphrased from a call summary. Verify them against the transcript.
