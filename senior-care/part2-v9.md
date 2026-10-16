@@ -38,7 +38,7 @@ Sabse pehle listed companies. Max Group mein ye model do listed companies ke bee
 
 Brigade Group ne February 2026 mein Primus Senior Living ke saath 3 projects announce kiye hain, 600 se zada ghar, lagbhag 750 crore ka gross development value. Inme se 2 projects Brigade ki badi townships ke andar honge. Brigade ka kaam hai planning aur construction, aur Primus apna senior living model laayegi: healthcare tie-ups, community programs aur roz ki services. Aur kyunki ye township ke andar hain, maa-baap senior apartment mein, aur bachche usi campus ke normal tower mein reh sakte hain.
 
-Godrej Properties ne North Bengaluru ki Godrej Royale Woods township ke andar Manasum Senior Living ke saath 'Banyan' naam ki senior community shuru ki hai, 13 acre mein 191 ghar. Jaha Godrej Properties township aur infrastructure sambhalega, aur Manasum community chalayegi: 24 ghante paramedical staff, on-call doctor, ambulance, khana aur roz ki services. Aur ye luxury nahi hai, yahan ghar lagbhag 36 lakh se shuru hote hain.
+Godrej Properties ne North Bengaluru ki Godrej Royale Woods township ke andar Manasum Senior Living ke saath 'Banyan' naam ki senior community bana rahi hai, 13 acre mein 191 ghar. Jaha Godrej Properties township aur infrastructure sambhalega, aur Manasum community chalayegi: 24 ghante paramedical staff, on-call doctor, ambulance, khana aur roz ki services. Aur ye luxury nahi hai, yahan ghar lagbhag 36 lakh se shuru hote hain.
 
 Aur Ashiana Housing, jo khud apni communities chalati hai, wo bhi assisted living aur dementia care ke liye Epoch Elder Care ke saath kaam karti hai. Yaani jo developer khud operations sambhalta hai, wo bhi care ka kaam specialist ko de raha hai.
 
