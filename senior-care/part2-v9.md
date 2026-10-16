@@ -36,9 +36,9 @@ Chaliye kuch examples dekhte hain.
 
 Sabse pehle listed companies. Max Group mein ye model do listed companies ke beech bata hua hai. Max Estates ghar banati aur bechti hai, aur Max India ki subsidiary Antara Senior Living unhe chalati hai. Max Estates ne Gurugram ke Estate 360 mein 292 senior homes 11 mahine mein bech diye, lagbhag 1,530 crore mein. December 2025 mein launch hue Estate 361 mein March 2026 tak phase 1 ke 180 mein se 127 ghar bik chuke the. Aur operator ki kamai dekho. Max India ke hisaab se Antara ko project value ka 8-10% management fee milti hai, aur management ke hisaab se Estate 360 aur 361 se milke lagbhag 330 crore ki fee expected hai, jispe direct variable cost sirf lagbhag 15% hai.
 
-Brigade Group ne Primus Senior Living ke saath 3 projects announce kiye hain, 600 se zada ghar, lagbhag 750 crore ka gross development value. Primus ka model multi-generational hai, jahan maa-baap ek serviced senior apartment mein rehte hain, aur bachche bagal wale normal tower mein.
+Brigade Group ne February 2026 mein Primus Senior Living ke saath 3 projects announce kiye hain, 600 se zada ghar, lagbhag 750 crore ka gross development value. Inme se 2 projects Brigade ki badi townships ke andar honge. Brigade ka kaam hai planning aur construction, aur Primus apna senior living model laayegi: healthcare tie-ups, community programs aur roz ki services. Aur kyunki ye township ke andar hain, maa-baap senior apartment mein, aur bachche usi campus ke normal tower mein reh sakte hain.
 
-Godrej Properties ne North Bengaluru mein Manasum Senior Living ke saath 'Banyan' naam ki luxury community shuru ki hai.
+Godrej Properties ne North Bengaluru ki Godrej Royale Woods township ke andar Manasum Senior Living ke saath 'Banyan' naam ki senior community shuru ki hai, 13 acre mein 191 ghar. Jaha Godrej Properties township aur infrastructure sambhalega, aur Manasum community chalayegi: 24 ghante paramedical staff, on-call doctor, ambulance, khana aur roz ki services. Aur ye luxury nahi hai, yahan ghar lagbhag 36 lakh se shuru hote hain.
 
 Aur Ashiana Housing, jo khud apni communities chalati hai, wo bhi assisted living aur dementia care ke liye Epoch Elder Care ke saath kaam karti hai. Yaani jo developer khud operations sambhalta hai, wo bhi care ka kaam specialist ko de raha hai.
 
@@ -52,7 +52,7 @@ Humne iss table mein real estate companies, unke operator partners aur key numbe
 |---|---|---|---|---|
 | Max Estates | Listed | Antara (Max India, listed) | Estate 360: 292 homes, ~₹1,530 cr; ~₹330 cr expected fees (360 + 361) | Luxury |
 | Brigade Group | Listed | Primus Senior Living | 3 projects, 600+ homes, ~₹750 cr GDV | Mid to premium |
-| Godrej Properties | Listed | Manasum Senior Living | Banyan, North Bengaluru | Luxury |
+| Godrej Properties | Listed | Manasum Senior Living | Banyan: 191 homes, 13 acres, from ~₹36 lakh | Mid-market |
 | Ashiana Housing | Listed | Epoch Elder Care (care only) | Self-run communities; Epoch for assisted and dementia care | Mid-market |
 | Wadhwa, Dosti, Srijan, Naiknavare, Gopalan | Unlisted | Primus | 9 projects, 6 cities; ₹2,000 cr HDFC Capital platform | Mid to premium |
 | Embassy, TVS Emerald, Asset Homes | Unlisted | Serene (Columbia Pacific) | ~₹3,000 cr, ~2,600 homes | Mid-market |
@@ -89,6 +89,8 @@ Toh picture kuch aisi hai dosto. Ghar bechne wala business aaj profit kama raha 
   - The Embassy entity partnering with Serene is Embassy Group, which is private. It isn't the listed Embassy Developments, so check this before calling it listed.
   - The other developers are treated as unlisted. Verify any you aren't sure of.
 - **International examples:** the Taikang and UK NHS step-down examples are described qualitatively from the Colliers report. No efficiency numbers are claimed.
+- **Brigade–Primus roles:** the announcement (Business Standard, 26 Feb 2026) says the two "develop" the projects together and doesn't split the roles or name the deal structure. "Brigade = planning and construction, Primus = senior living model and services" is my inference from that coverage, so check it with the companies before stating it as fact.
+- **Godrej–Manasum roles:** the Banyan site shows Manasum as the brand running the services (paramedics, doctor, ambulance, meals). Godrej's exact role isn't spelled out; "township and infrastructure" is inferred because Banyan sits inside Godrej Royale Woods. The site lists prices from ~₹35.9 lakh (2 BHK), so it's mid-market, not luxury, despite Colliers' description.
 - **Operator revenue line:** only Antara's model (management fee + maintenance income + resale fee) is disclosed, in Max India's presentation. The other partnerships (Brigade–Primus, Godrej–Manasum and so on) don't disclose their terms, so the "revenue share" mention is a general industry description, not a sourced fact about any named deal.
 - **₹330 cr:** this is the ₹130 cr (Estate 360) plus ₹200 cr (Estate 361) from the call summary.
 - **Colliers classifies Serene as "healthcare-led"**, so it sits in that bucket here. Colliers also places Serene at the premium end; I tagged it mid-market based on its ₹70 lakh–1.5 cr tickets.
