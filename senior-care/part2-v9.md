@@ -22,11 +22,11 @@ Ashiana, Paranjape ka Athashri aur Saket Pranamam jaisi companies mid-market aur
 
 | Company | Revenue from operations (FY26) | Senior living share | Target market | Senior living projects | Expected revenue from projects |
 |---|---|---|---|---|---|
-| DLF | ₹10,174 cr | 0% of FY26 revenue (first project launched in FY27). The Aureva's ₹1,985 cr equals ~10% of FY26 bookings of ₹20,143 cr | Luxury, metro | The Aureva, Gurugram: 172 flats, 45-floor tower | ~₹2,000 cr target; ₹1,985 cr booked (sold out) |
-| Ashiana Housing | ~₹1,185 cr | Not disclosed as % of revenue. Senior bookings ₹570 cr = ~23.5% of FY26 bookings of ₹2,421 cr | Mid-market, Tier 2 | Utsav and other communities; new Pune project (28.55 acres, ~20 lakh sq ft) | Pune: ₹1,800–2,000 cr |
-| Paranjape Schemes (Athashri) | NA (unlisted) | NA | Mid-market | 16 communities, 3,000+ residents | NA |
-| Saket Engineers (Saket Pranamam) | NA (unlisted) | NA | Mid-market | Pranamam, Hyderabad | NA |
-| Hiranandani Group | NA (unlisted) | NA | Premium | Elements, Oragadam: 400 homes, ~10 lakh sq ft | NA |
+| DLF | ₹10,174 cr | 0% of FY26 revenue (first project launched in FY27). The Aureva's ₹1,985 cr equals ~10% of FY26 bookings of ₹20,143 cr | Luxury, metro | **The Aureva**, Sector 63, Golf Course Extension Road, Gurugram (first senior project). 4.17 acres; one G+45 tower; 172 four-BHK flats; ~7.5 lakh sq ft saleable; 3 parking spaces per flat. Avg ticket ~₹11.5 cr (~₹26,500/sq ft). 406 EOIs in 48 hours; fully sold by Oct 2026 | ~₹2,000 cr target; ₹1,985 cr booked |
+| Ashiana Housing | ~₹1,185 cr | Not disclosed as % of revenue. Senior bookings ₹570 cr = ~23.5% of FY26 bookings of ₹2,421 cr | Mid-market, Tier 2 | **Existing:** senior communities in Bhiwadi, Jaipur, Pune, Chennai and Lavasa. Includes Utsav, Bhiwadi (2007, first project, 650+ homes), Nirmay (160 homes) and Advik, Alwar Bypass (192 homes, possession from 2026). 569 senior homes sold in FY26, avg ~₹1 cr. **Upcoming:** Pune (Wadgaon Maval), 28.55 acres, ~20 lakh sq ft, ~10-year development, launch expected H2 of next fiscal. A Bengaluru (Kanakpura Road) deal is in discussion | Pune: ₹1,800–2,000 cr |
+| Paranjape Schemes (Athashri) | NA (unlisted) | NA | Mid-market | **Athashri:** ~16 senior communities across Pune, Bengaluru and Vadodara; 3,000+ residents; focus on age-friendly design, active ageing and community living | NA |
+| Saket Engineers (Saket Pranamam) | NA (unlisted) | NA | Mid-market | **Saket Pranamam**, Hyderabad: self-contained retirement community with recreation, wellness programs and age-friendly infrastructure | NA |
+| Hiranandani Group | NA (unlisted) | NA | Premium | **Elements**, Hiranandani Parks, Oragadam (Chennai): 4.5 acres inside an integrated township; ~10 lakh sq ft development potential; 400 residences in two phases | NA |
 
 ## Integrated Approach
 
@@ -103,6 +103,10 @@ Toh picture kuch aisi hai dosto. Ghar bechne wala business aaj profit kama raha 
 - **International examples:** the Taikang and UK NHS step-down examples are described qualitatively from the Colliers report. No efficiency numbers are claimed.
 - **Brigade–Primus roles:** the announcement (Business Standard, 26 Feb 2026) says the two "develop" the projects together and doesn't split the roles or name the deal structure. "Brigade = planning and construction, Primus = senior living model and services" is my inference from that coverage, so check it with the companies before stating it as fact.
 - **Godrej–Manasum roles:** the Banyan site shows Manasum as the brand running the services (paramedics, doctor, ambulance, meals). Godrej's exact role isn't spelled out; "township and infrastructure" is inferred because Banyan sits inside Godrej Royale Woods. The site lists prices from ~₹35.9 lakh (2 BHK), so it's mid-market, not luxury, despite Colliers' description.
+- **Table 1 project details:**
+  - DLF: The Tribune and ICICI Direct (Oct 2026).
+  - Ashiana project names, unit counts and Pune/Bengaluru plans: Jeevin Senior Care and the Q1 FY27 call summary. Ashiana's project locations: Colliers. Check Advik's possession date.
+  - Athashri, Saket Pranamam and Hiranandani Elements: Colliers report.
 - **Table 1 sources:**
   - DLF FY26 revenue (₹10,174 cr) and bookings (₹20,143 cr) are from DLF's Q4 FY26 press release.
   - Ashiana's FY26 total bookings (₹2,421 cr) are from news reports of its operational update.
