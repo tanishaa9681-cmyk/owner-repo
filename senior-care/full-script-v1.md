@@ -94,11 +94,11 @@ Humne iss table mein companies ke partnership details ko summarize kiya hai.
 
 ### Sarkar kya kar rahi hai?
 
-Ab policy ki taraf bhi dekhte hain. Sabse bada kadam healthcare mein aaya hai. October 2024 se Ayushman Bharat ke andar 70 saal se upar ke har buzurg ko, income chahe kuch bhi ho, 5 lakh rupaye ka free health cover milta hai. Aur ab tak lagbhag 1.14 crore Ayushman Vay Vandana cards issue ho chuke hain. Aur April 2024 se IRDAI ne health insurance khareedne ki 65 saal ki age limit bhi hata di.
+Policy mein sabse bada kadam healthcare mein aaya hai. October 2024 se Ayushman Bharat ke andar 70 saal se upar ke har buzurg ko, income chahe kuch bhi ho, 5 lakh rupaye ka free health cover milta hai. Ab tak lagbhag 1.14 crore Vay Vandana cards issue ho chuke hain. April 2024 se IRDAI ne health insurance khareedne ki 65 saal ki age limit bhi hata di.
 
 Housing mein abhi states aage hain. Haryana ne retirement housing policy notify ki hai, jisme 24 ghante ambulance, paas ke super-specialty hospital ke saath tie-up, aur buzurg, developer aur operator ke beech tripartite agreement zaroori hai. Maharashtra ki draft policy senior housing ko zyada FSI aur kam development charges deti hai, lekin 24 ghante nurse aur on-call doctor ko mandatory banati hai.
 
-Lekin abhi tak koi national regulator nahi hai. Centre ki nayi National Policy for Senior Citizens abhi draft stage mein hai. Aur ASLI aur PwC ki September 2026 ki report ne ek alag Senior Care Regulatory Authority banane ki salah di hai.
+Lekin national level par abhi koi regulator nahi hai, aur Centre ki nayi National Policy for Senior Citizens abhi draft stage mein hai.
 
 [ON SCREEN: Centre: PM-JAY 70+ (₹5 lakh), IRDAI age cap removed | States: Haryana policy notified, Maharashtra draft | Missing: national regulator, long-term care insurance]
 
