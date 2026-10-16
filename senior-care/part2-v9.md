@@ -58,17 +58,19 @@ Humne iss table mein real estate companies, unke operator partners aur key numbe
 
 [TABLE 2: Integrated approach]
 
-| Real estate company | Operator partner | Partnership details | Key focus area |
-|---|---|---|---|
-| Max Estates (listed) | Antara Senior Living (Max India, listed) | Same group. Max Estates builds and sells; Antara runs the community for an 8–10% management fee. Estate 360: 292 homes, ~₹1,530 cr sold; Estate 361 phase 1: 127 of 180 sold | Lifestyle and hospitality |
-| Brigade Group (listed) | Primus Senior Living | 3 projects, 600+ homes, ~₹750 cr GDV (Feb 2026); 2 inside Brigade townships | Hybrid (hospitality + healthcare, multi-generational) |
-| Godrej Properties (listed) | Manasum Senior Living | Banyan inside Godrej Royale Woods, North Bengaluru: 191 homes, 13 acres, from ~₹36 lakh | Lifestyle and hospitality |
-| Ashiana Housing (listed) | Epoch Elder Care | Ashiana runs its own communities; Epoch handles assisted living and dementia care | Healthcare |
-| Wadhwa, Dosti, Srijan, Naiknavare, Gopalan | Primus Senior Living | 9 projects across 6 cities; Primus also has a ₹2,000 cr platform with HDFC Capital | Hybrid (hospitality + healthcare, multi-generational) |
-| Embassy Group, TVS Emerald, Asset Homes | Serene Communities (Columbia Pacific) | ~₹3,000 cr investment across 6 cities; ~2,600 homes under construction; ~1,700 homes managed | Healthcare (full range of care, from independent living to memory care) |
-| Ramaniyam Real Estates, VNCT Global | Athulya Senior Care | Chennai projects | Healthcare (assisted living, rehab, dementia, skilled nursing) |
-| Ozone Group, Tapovan Projects | Covai Care | Bengaluru and Mysore projects | Healthcare |
-| J K Urbanscapes | Advait Living | Gurugram premium retirement housing | Lifestyle and hospitality |
+| Real estate company | Operator partner | Developer's role | Operator's role | Other details | Focus area |
+|---|---|---|---|---|---|
+| Max Estates (listed) | Antara Senior Living (Max India, listed) | Land, construction and sales of senior homes | Project management; runs the community after handover (maintenance, F&B, wellness, assisted care); manages resales | Same group. Antara earns an 8–10% management fee, 20–25% EBITDA on maintenance at steady state, and resale fees (₹1.71 cr from 5 resales in Dehradun, FY26). Estate 360: 292 homes, ~₹1,530 cr | Lifestyle and hospitality |
+| Brigade Group (listed) | Primus Senior Living | Planning and construction; 2 of 3 projects inside Brigade townships* | Senior living model: healthcare tie-ups, community programs, daily services* | Announced Feb 2026: 3 projects, 600+ homes, ~₹750 cr GDV; Bengaluru and South India | Hybrid (hospitality + healthcare, multi-generational) |
+| Godrej Properties (listed) | Manasum Senior Living | Township and infrastructure (Godrej Royale Woods)* | Runs the community: 24x7 paramedics, on-call doctor, ambulance, pharmacy, dining, concierge, daily shuttle | Banyan: 191 homes, 13 acres, North Bengaluru; from ~₹36 lakh | Lifestyle and hospitality |
+| Ashiana Housing (listed) | Epoch Elder Care | Builds, sells and runs its own senior communities | Assisted living and dementia care (personalised care plans, medical supervision, rehab, memory care) | Epoch operates in Gurugram and Bhiwadi; Bhiwadi is home to Ashiana's first senior project, Utsav | Healthcare |
+| Wadhwa, Dosti, Srijan, Naiknavare, Gopalan | Primus Senior Living | Land and construction (co-development) | Senior living design inputs and operations; healthcare tie-ups, personalised care, hospitality, community programs | 9 projects across 6 cities; Primus has a ₹2,000 cr platform with HDFC Capital | Hybrid (hospitality + healthcare, multi-generational) |
+| Embassy Group, TVS Emerald, Asset Homes | Serene Communities (Columbia Pacific) | Land and construction | Full range of care: independent living, assisted living, memory care, community engagement | ~₹3,000 cr investment, 6 cities; ~2,600 homes under construction; ~1,700 homes managed across 10 communities | Healthcare |
+| Ramaniyam Real Estates, VNCT Global | Athulya Senior Care | Land and construction (Chennai) | Assisted living, transition care, rehab, dementia care, skilled nursing | Athulya also operates in Bengaluru, Hyderabad and Kochi | Healthcare |
+| Ozone Group, Tapovan Projects | Covai Care | Land and construction (Bengaluru, Mysore) | Retirement community operations with elder care, wellness and caregiver support | Covai Care also operates in Coimbatore and Chennai | Healthcare |
+| J K Urbanscapes | Advait Living | Land and construction (Gurugram) | Independent living, wellness, healthcare access, community engagement | Premium retirement housing | Lifestyle and hospitality |
+
+*Not spelt out by the companies; based on the announcement coverage or the project's location.
 
 ### Lekin ye raasta aasaan nahi hai
 
@@ -106,6 +108,10 @@ Toh picture kuch aisi hai dosto. Ghar bechne wala business aaj profit kama raha 
   - Ashiana's FY26 total bookings (₹2,421 cr) are from news reports of its operational update.
   - The "~10%" and "~23.5%" are my calculations. Senior living share of revenue isn't disclosed by either company.
   - Ashiana's ~₹1,185 cr revenue is "sales and other income", not strictly revenue from operations. Check the annual report.
+- **Roles in Table 2:**
+  - Operator roles come from the Colliers operator tables and the companies' own sites.
+  - Developer roles for the unlisted partnerships are generic ("land and construction"), because Colliers only says these developers are each operator's "real estate partners".
+  - Rows marked * are inferred, not disclosed by the companies.
 - **Focus areas in Table 2:** these follow Colliers' operator classification (Lifestyle and hospitality-led / Healthcare-led / Hybrid).
 - **Operator revenue line:** only Antara's model (management fee + maintenance income + resale fee) is disclosed, in Max India's presentation. The other partnerships (Brigade–Primus, Godrej–Manasum and so on) don't disclose their terms, so the "revenue share" mention is a general industry description, not a sourced fact about any named deal.
 - **₹330 cr:** this is the ₹130 cr (Estate 360) plus ₹200 cr (Estate 361) from the call summary.
